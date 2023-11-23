@@ -1,0 +1,11 @@
+D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.CrossCutting\bin\Debug\net6.0\API.CrossCutting.deps.json
+D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.CrossCutting\bin\Debug\net6.0\API.CrossCutting.dll
+D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.CrossCutting\bin\Debug\net6.0\ref\API.CrossCutting.dll
+D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.CrossCutting\bin\Debug\net6.0\API.CrossCutting.pdb
+D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.CrossCutting\obj\Debug\net6.0\API.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.CrossCutting\obj\Debug\net6.0\API.CrossCutting.AssemblyInfoInputs.cache
+D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.CrossCutting\obj\Debug\net6.0\API.CrossCutting.AssemblyInfo.cs
+D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.CrossCutting\obj\Debug\net6.0\API.CrossCutting.csproj.CoreCompileInputs.cache
+D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.CrossCutting\obj\Debug\net6.0\API.CrossCutting.dll
+D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.CrossCutting\obj\Debug\net6.0\ref\API.CrossCutting.dll
+D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.CrossCutting\obj\Debug\net6.0\API.CrossCutting.pdb
