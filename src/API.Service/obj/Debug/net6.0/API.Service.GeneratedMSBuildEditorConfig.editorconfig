@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = API.Service
-build_property.ProjectDir = D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.Service\
+build_property.ProjectDir = D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\

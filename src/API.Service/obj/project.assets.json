@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Wfrohlich\\Cursos\\Udemy\\Api.DDD\\src\\API.Service\\API.Service.csproj",
+      "projectUniqueName": "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.Service\\API.Service.csproj",
       "projectName": "API.Service",
-      "projectPath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Api.DDD\\src\\API.Service\\API.Service.csproj",
+      "projectPath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.Service\\API.Service.csproj",
       "packagesPath": "C:\\Users\\weskf\\.nuget\\packages\\",
-      "outputPath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Api.DDD\\src\\API.Service\\obj\\",
+      "outputPath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

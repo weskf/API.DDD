@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J7G2MobPsK/UCLgsKT5QnRNDD6zQqt55ROK7Qsh7ixk6+SqV2RuS28se0oR3yUQzLqdL8U9buQ+LKOTkHSIYhA==",
+  "dgSpecHash": "lS8lYFzJe5xSoPmNSRQ+JeSEKxHC9xf3cGemoY63LmvIMMcU1cG5r+vc3sZKUZvaJnjFoL2H4tiU+ybnM7MYxw==",
   "success": true,
-  "projectFilePath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Api.DDD\\src\\API.CrossCutting\\API.CrossCutting.csproj",
+  "projectFilePath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.CrossCutting\\API.CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

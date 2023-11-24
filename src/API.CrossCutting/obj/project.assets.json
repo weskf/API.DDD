@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Wfrohlich\\Cursos\\Udemy\\Api.DDD\\src\\API.CrossCutting\\API.CrossCutting.csproj",
+      "projectUniqueName": "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.CrossCutting\\API.CrossCutting.csproj",
       "projectName": "API.CrossCutting",
-      "projectPath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Api.DDD\\src\\API.CrossCutting\\API.CrossCutting.csproj",
+      "projectPath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.CrossCutting\\API.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\weskf\\.nuget\\packages\\",
-      "outputPath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Api.DDD\\src\\API.CrossCutting\\obj\\",
+      "outputPath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qq9jWFfgvoq/ok6/WgWQkn3/W++H0w6XbwlBcVFzr5NJOozy7DFXPOvoQ7VjuDdnqR16Lm6yQ8j+6lSS2PUDeg==",
+  "dgSpecHash": "3zGOJP17cJFpyNluPJesMqZ2p8PIrjIymYnwWaYqSf4p+flC1rVXdpka9sf1vCs2P8BYF0Axs/OSM0vTDn60tw==",
   "success": true,
-  "projectFilePath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Api.DDD\\src\\API.Data\\API.Data.csproj",
+  "projectFilePath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.Data\\API.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\weskf\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\weskf\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

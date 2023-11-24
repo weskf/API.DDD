@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jWbaGiWFIW2rEeWZNI/RzDdTo4kIv+dYNOSTbd8TP7lfwznp/Ig6XlnV6Ug6RQzu/Y1IwwSumQ0V6r007Ik9Lw==",
+  "dgSpecHash": "x66k4Z8Ts14SA4lIpJwHEKC3172gVLqY210nqQqdZMk5anpiouqDGo/ZcAEXlD5aWHcGAfEMl9qvqw3b/ytYBg==",
   "success": true,
-  "projectFilePath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Api.DDD\\src\\API.Application\\API.Application.csproj",
+  "projectFilePath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.Application\\API.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\weskf\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\weskf\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
