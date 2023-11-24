@@ -10,3 +10,15 @@ D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.Domain\obj\Debug\net6.0\API.Domain.dl
 D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.Domain\obj\Debug\net6.0\ref\API.Domain.dll
 D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.Domain\obj\Debug\net6.0\API.Domain.pdb
 D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.Domain\obj\Debug\net6.0\API.Domain.csproj.AssemblyReference.cache
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Domain\bin\Debug\net6.0\API.Domain.deps.json
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Domain\bin\Debug\net6.0\API.Domain.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Domain\bin\Debug\net6.0\ref\API.Domain.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Domain\bin\Debug\net6.0\API.Domain.pdb
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Domain\obj\Debug\net6.0\API.Domain.csproj.AssemblyReference.cache
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Domain\obj\Debug\net6.0\API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Domain\obj\Debug\net6.0\API.Domain.AssemblyInfoInputs.cache
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Domain\obj\Debug\net6.0\API.Domain.AssemblyInfo.cs
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Domain\obj\Debug\net6.0\API.Domain.csproj.CoreCompileInputs.cache
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Domain\obj\Debug\net6.0\API.Domain.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Domain\obj\Debug\net6.0\ref\API.Domain.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Domain\obj\Debug\net6.0\API.Domain.pdb

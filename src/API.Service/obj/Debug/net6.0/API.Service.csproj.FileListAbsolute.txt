@@ -9,3 +9,15 @@ D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.Service\obj\Debug\net6.0\API.Service.
 D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.Service\obj\Debug\net6.0\API.Service.dll
 D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.Service\obj\Debug\net6.0\ref\API.Service.dll
 D:\_Wfrohlich\Cursos\Udemy\Api.DDD\src\API.Service\obj\Debug\net6.0\API.Service.pdb
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\bin\Debug\net6.0\API.Service.deps.json
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\bin\Debug\net6.0\API.Service.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\bin\Debug\net6.0\ref\API.Service.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\bin\Debug\net6.0\API.Service.pdb
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\API.Service.csproj.AssemblyReference.cache
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\API.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\API.Service.AssemblyInfoInputs.cache
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\API.Service.AssemblyInfo.cs
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\API.Service.csproj.CoreCompileInputs.cache
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\API.Service.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\ref\API.Service.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\API.Service.pdb
