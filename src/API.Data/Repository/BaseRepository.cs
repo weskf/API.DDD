@@ -86,9 +86,16 @@ namespace API.Data.Repository
                 throw ex;
             }
         }
-        public Task<IEnumerable<T>> SelectAsync()
+        public async Task<IEnumerable<T>> SelectAsync()
         {
-            throw new NotImplementedException();
+            try
+            {
+                return await _dataset.ToListAsync();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
         public async Task<bool> ExistsAsync(Guid id)
         {
