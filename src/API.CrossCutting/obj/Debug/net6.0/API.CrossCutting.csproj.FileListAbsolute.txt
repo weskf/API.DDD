@@ -21,3 +21,10 @@ D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.CrossCutting\obj\Debug\net6.0\
 D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.CrossCutting\obj\Debug\net6.0\API.CrossCutting.dll
 D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.CrossCutting\obj\Debug\net6.0\ref\API.CrossCutting.dll
 D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.CrossCutting\obj\Debug\net6.0\API.CrossCutting.pdb
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.CrossCutting\bin\Debug\net6.0\API.Data.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.CrossCutting\bin\Debug\net6.0\API.Domain.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.CrossCutting\bin\Debug\net6.0\API.Service.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.CrossCutting\bin\Debug\net6.0\API.Data.pdb
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.CrossCutting\bin\Debug\net6.0\API.Domain.pdb
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.CrossCutting\bin\Debug\net6.0\API.Service.pdb
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.CrossCutting\obj\Debug\net6.0\API.CrossCutting.csproj.CopyComplete

@@ -621,16 +621,6 @@
           }
         }
       },
-      "API.CrossCutting/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/API.CrossCutting.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/API.CrossCutting.dll": {}
-        }
-      },
       "API.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1864,11 +1854,6 @@
         "version.txt"
       ]
     },
-    "API.CrossCutting/1.0.0": {
-      "type": "project",
-      "path": "../API.CrossCutting/API.CrossCutting.csproj",
-      "msbuildProject": "../API.CrossCutting/API.CrossCutting.csproj"
-    },
     "API.Data/1.0.0": {
       "type": "project",
       "path": "../API.Data/API.Data.csproj",
@@ -1882,7 +1867,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "API.CrossCutting >= 1.0.0",
       "API.Data >= 1.0.0",
       "API.Domain >= 1.0.0"
     ]
@@ -1919,9 +1903,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.CrossCutting\\API.CrossCutting.csproj": {
-              "projectPath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.CrossCutting\\API.CrossCutting.csproj"
-            },
             "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.Data\\API.Data.csproj": {
               "projectPath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.Data\\API.Data.csproj"
             },

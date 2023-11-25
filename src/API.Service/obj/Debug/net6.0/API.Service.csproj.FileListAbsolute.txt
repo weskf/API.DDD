@@ -21,3 +21,8 @@ D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\API.S
 D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\API.Service.dll
 D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\ref\API.Service.dll
 D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\API.Service.pdb
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\bin\Debug\net6.0\API.Data.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\bin\Debug\net6.0\API.Domain.dll
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\bin\Debug\net6.0\API.Data.pdb
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\bin\Debug\net6.0\API.Domain.pdb
+D:\_Wfrohlich\Cursos\Udemy\Github\API.DDD\src\API.Service\obj\Debug\net6.0\API.Service.csproj.CopyComplete
