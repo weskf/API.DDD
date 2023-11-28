@@ -1,4 +1,4 @@
-﻿using API.Domain.Entidades;
+﻿using API.Domain.DTOs;
 using API.Domain.Interfaces.Services.Users;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
@@ -14,17 +14,17 @@ namespace API.Application.Controllers
             this._service = service;
         }
 
-        [HttpGet]
-        public async Task<IActionResult> Login([FromBody] UserEntity user)
+        [HttpPost]
+        public async Task<IActionResult> Login([FromBody] LoginDTO login)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
-            if (user == null)
+            if (login == null)
                 return BadRequest();
 
             try
             {
-                var result = await _service.FindByLogin(user);
+                var result = await _service.FindByLogin(login);
                 if (result == null)
                     return NotFound();
                 else
