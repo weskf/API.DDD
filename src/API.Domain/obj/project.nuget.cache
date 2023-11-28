@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "E2Wj73GgEuqiRa4ayLL2ak6AH7HtK3UqoIzxkfnLYX4TbcrRvIQA3RNI0sIQzhP1P1myMfYma8saHJOeXyKvLA==",
+  "dgSpecHash": "2mbDrET8HMvU9U2XLFZU8x0CG+lqg30k6pmNcDFYWrW08K00VHcuL0o+Iyp2J1tMjsCbYe3xSXlJub+eaDFh9g==",
   "success": true,
   "projectFilePath": "D:\\_Wfrohlich\\Cursos\\Udemy\\Github\\API.DDD\\src\\API.Domain\\API.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\weskf\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.3\\microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "C:\\Users\\weskf\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.3\\microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\weskf\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.3\\microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "C:\\Users\\weskf\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.3\\microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\weskf\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.3\\system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
